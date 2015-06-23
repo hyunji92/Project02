@@ -11,6 +11,7 @@ public class StackPractice {
 
 		this.maxSize = maxSize;
 		this.stackArray = new Object[maxSize];
+		initStack();
 	}
 
 	public void initStack() {
