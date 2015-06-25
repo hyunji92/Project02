@@ -23,6 +23,7 @@ public class StackTest {
 		System.out.println(stackPractice.pop());
 
 		System.out.println();
+		System.out.println(“slack 테스트 추가 코드 ”);
 
 	}
 
